@@ -16,6 +16,7 @@
     "url": "https://github.com/Dogfalo/materialize/issues"
   },
   "scripts": {
+    "release": "grunt release",
     "test": "grunt travis --verbose"
   },
   "dependencies": {
