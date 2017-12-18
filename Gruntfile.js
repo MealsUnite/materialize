@@ -184,7 +184,7 @@ module.exports = function(grunt) {
 //          "js/date_picker/picker.js",
 //          "js/date_picker/picker.date.js",
 //          "js/date_picker/picker.time.js",
-//          "js/character_counter.js",
+          "js/character_counter.js",
 //          "js/carousel.js",
 //          "js/tapTarget.js",
         ],
